@@ -21,7 +21,7 @@ A local, offline Python toolset for converting audio files and transcribing them
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/local-whisper-transcriber.git](https://github.com/YOUR_USERNAME/local-whisper-transcriber.git)
+    git clone https://github.com/Ghaith202/local-whisper-transcriber.git
     cd local-whisper-transcriber
     ```
 
